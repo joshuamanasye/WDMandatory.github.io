@@ -1,0 +1,47 @@
+body, html{
+    margin: 0;
+    background-image: url("./assets/cover.jpg");
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    font-size: 50pt;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    margin: 8px;
+    font-size: 20pt;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.high-scores{
+    font-size: 20pt;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 2px;
+    display:flex;
+    flex-direction: column;
+    /* justify-content:space-between; */
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    font-size: 30pt;
+    color: white;
+    background-color: midnightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    padding: 10px 60px;
+    border: solid white 5px;
+}

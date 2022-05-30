@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #162635;
+}
+
+.background{
+    background-image: url("./assets/background.png");
+    background-repeat: no-repeat;
+    background-size: 960px 720px;
+    background-attachment: fixed;
+    background-position: top; 
+}
+
+#canvas{
+    margin: 24px 336px;
+    width: 577px;
+    height: 672px;
+    background-color: royalblue;
+    background-image: url("./assets/stage_background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

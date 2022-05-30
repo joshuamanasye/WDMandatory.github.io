@@ -1,0 +1,11 @@
+sanae_bullet
+w = 56
+h = 8
+
+sanae_idle
+w = 32
+h = 50
+
+fairy
+w = 65
+h = 63
