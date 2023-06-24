@@ -1,5 +1,5 @@
 ### Description
-This is a project given to me to test what I have achieved after 4 days of learning HTML, CSS, and JavaScript. The time allotted to work on this project is 5 days since I started learning web development. All assets were provided by the trainer.
+This is a project given to me to test what I have achieved after 4 days of learning HTML, CSS, and JavaScript. The time allotted to work on this project is 5 days since I started learning web development. All assets were provided by the trainer. All logic was done in 2 days.
 ### Page Link
 https://joshuamanasye.github.io/WDMandatory.github.io/
 ### How to Play
